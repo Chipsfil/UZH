@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+
+####################################
+#DOSEN'T GIVE MAX POINT, ONLY 2.75/3
+####################################
+
+
 # These are examples for valid and invalid inputs to your validation function
 from curses.ascii import isalpha
 
